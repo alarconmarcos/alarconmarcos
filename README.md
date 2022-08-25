@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/alarconmarcos/alarconmarcos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlarconPedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -27,11 +27,11 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/pedro_h_alarcon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/alarconmarcos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pedrohenriquealarcon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-alarcon-459aba186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marcos@omegasistemas.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-alarcon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AlarconPedro/AlarconPedro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alarconmarcos/alarconmarcos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
