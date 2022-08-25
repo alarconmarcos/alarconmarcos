@@ -7,11 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=alarconmarcos&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alarconmarcos&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&theme=dark"/>
   
     /*  
     <img height="180em" src="https://github-readme-stats.vercel.app/api?  username=alarconmarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falarconmarcos1212%2Fhit-counter&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&theme=dark"/>
     */
     
 </div>
