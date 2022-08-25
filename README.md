@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=alarconmarcos&theme=minimal"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alarconmarcos&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=alarconmarcos"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alarconmarcos"/>
