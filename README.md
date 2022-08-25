@@ -4,6 +4,16 @@
   <a href="https://github.com/alarconmarcos/alarconmarcos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=alarconmarcos&theme=minimal"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alarconmarcos&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=alarconmarcos"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alarconmarcos"/>
+  <img height="180em" src="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falarconmarcos1212%2Fhit-counter
+"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos"/>
+  
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Delphi" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
@@ -32,7 +42,7 @@
  
 <div> 
   <a href="https://www.instagram.com/alarconmarcos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://www.facebook.com/o.marcos.alarcon" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcos@omegasistemas.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-alarcon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
