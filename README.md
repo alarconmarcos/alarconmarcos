@@ -4,7 +4,7 @@
   <a href="https://github.com/alarconmarcos/alarconmarcos">
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos&langs_count=7&theme=dark"/>
   <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=alarconmarcos&theme=dark"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=alarconmarcos&theme=dark"/>
   
