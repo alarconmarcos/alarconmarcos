@@ -20,6 +20,7 @@
   <img align="center" alt="Marcos-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Marcos-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
   <img align="center" alt="Marcos-androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Marcos-hadoop" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/hadoop-226007.png">
 
   
 </div>
