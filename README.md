@@ -7,8 +7,7 @@
   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=alarconmarcos&theme=minimal"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarconmarcos"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alarconmarcos"/>
-  <img height="180em" src="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falarconmarcos1212%2Fhit-counter
-"/>
+  <img height="180em" src="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falarconmarcos1212%2Fhit-counter"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconmarcos"/>
   
   
