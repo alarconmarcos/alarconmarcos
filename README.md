@@ -36,10 +36,9 @@
   <img align="center" alt="Marcos-hive" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png">
   <img align="center" alt="Marcos-arduino" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png">
   <img align="center" alt="Marcos-react" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+  <img align="center" alt="Marcos-react" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
   
-  
-
-  
+    
 </div>
   
   ##
