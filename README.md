@@ -1,4 +1,6 @@
 <!--
+### Olá Eu Sou Marcos Alarcon 👋
+
 <div align="left">
   <a href="https://github.com/alarconmarcos/alarconmarcos">
 
@@ -52,7 +54,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
-### Olá Eu Sou Marcos Alarcon 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Alarcon;I'm+45+years+old;I'm+from+Brazil;I+Graduated+in+Systems+Analysis+and+Development;From+the+Pontifical+Catholic+Univerity+of+Paraná+(PUC-PR);Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
@@ -79,7 +80,7 @@
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Marcos-Firebird" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/800px-Firebird_logo.svg.png">  
+  <img align="center" alt="Marcos-Firebird" height="30" width="40" src="https://firebirdsql.org/file/about/firebird-logo-42.png">  
   <img align="center" alt="Marcos-MySql" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png">
   <img align="center" alt="Marcos-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -100,13 +101,15 @@
   <img align="center" alt="Marcos-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Marcos-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Marcos-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-
+  <img align="center" alt="Marcos-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ### Hobby skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Marcos-psd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Marcos-gpt" height="30" width="40" src="https://devicons.railway.app/i/chatgpt.svg" />
+
 </div> 
 
 <div align="center"> 
