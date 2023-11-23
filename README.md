@@ -26,9 +26,9 @@
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Marcos-Firebird" height="30" width="40" src="https://firebirdsql.org/file/about/firebird-logo-42.png">  
+  <img align="center" alt="Marcos-Firebird" height="30" width="40" src="https://gwbminformatica.com.br/imagens/1.png">  
   <img align="center" alt="Marcos-MySql" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png">
-  <img align="center" alt="Marcos-SQLServer" height="30" width="40" src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png">
+  <img align="center" alt="Marcos-SQLServer" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Marcos-Vcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Marcos-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
