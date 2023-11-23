@@ -82,7 +82,7 @@
   <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Marcos-Firebird" height="30" width="40" src="https://firebirdsql.org/file/about/firebird-logo-42.png">  
   <img align="center" alt="Marcos-MySql" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png">
-  <img align="center" alt="Marcos-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Marcos-SQLServer" height="30" width="40" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-6.jpg">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Marcos-Vcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Marcos-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
