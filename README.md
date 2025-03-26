@@ -50,6 +50,7 @@
   <img align="center" alt="Marcos-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Marcos-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
   <img align="center" alt="Marcos-spark" height="30" width="40" src="https://img.icons8.com/?size=256&id=0cRqPqlItA0E&format=png">
+  <img align="center" alt="Marcos-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </div>
 
 ### Hobby skills:
