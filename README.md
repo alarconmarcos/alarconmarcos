@@ -51,7 +51,7 @@
   <img align="center" alt="Marcos-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
   <img align="center" alt="Marcos-spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
   <img align="center" alt="Marcos-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Marcos-plsql" height="30" width="40" src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" />
+  <img align="center" alt="Marcos-plsql" height="30" width="40" src="https://img.icons8.com/?id=8ljTDYUEydbJ&format=png&color=000000" />
 </div>
 
 ### Hobby skills:
